@@ -18,7 +18,7 @@ You should first run main.py in the multi_positive_CL folder to get a feature-ex
 
 Then, you can use the well-trained model to obtain the embeddings of regional features, which are saved in 'region_embeding_xxx.txt'.
 
-After acquiring the embeddings, you can run the exe_traffic.py to implement our Opendiff model.
+After acquiring the embeddings, you can run the exe_traffic.py in the diffusion_model folder to implement our Opendiff model.
 
 
 # Model Training
