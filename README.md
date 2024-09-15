@@ -1,8 +1,10 @@
+# Our latest code is migrated at [Here](https://github.com/tsinghua-fib-lab/opendiff).
+
 # OpenDiff-diffusion-model-with-open-data-source
 
 This project was initially described in the full Applied Data Science Track paper "Diffusion Model-based Mobile Traffic Generation with Open Data for Network Planning and Optimization", at 30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024) in Barcelona, Spain. Contributors to this project are from the [Future Intelligence laB (FIB)](https://fi.ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-Our latest code is migrated at [Here]([https://github.com/tsinghua-fib-lab/opendiff).
+
 
 ![image](images/framework_all.png)
 
